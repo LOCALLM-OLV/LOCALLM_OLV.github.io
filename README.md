@@ -8,10 +8,11 @@
 
 # 🎬 BETA DEMO
 
-[▶ WATCH DEMO VIDEO](https://github.com/LOCALLM-OLV/LOCALLM_OLV.github.io/raw/main/LOCALLM_OLV_BETA_DEMO.mp4)
+<a href="https://github.com/LOCALLM-OLV/LOCALLM_OLV.github.io/raw/main/LOCALLM_OLV_BETA_DEMO.mp4">
+  <img src="https://raw.githubusercontent.com/LOCALLM-OLV/LOCALLM_OLV.github.io/main/demo_thumbnail.png" width="100%" />
+</a>
 
-> GitHub mobile may not support embedded video playback.  
-> Tap the link above to open the demo video directly.
+> Click the image above to play the demo video.
 
 ---
 
