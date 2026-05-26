@@ -1,27 +1,48 @@
 # LOCALLM_OLV.github.io
 
-## LOCALLM_OLV AGENT
+# 🧠 LOCALLM_OLV AGENT
+
+> Multi-Agent Local LLM Workspace
 
 ---
 
-## BETA DEMO
+# 🎬 BETA DEMO
 
-<video src="https://github.com/LOCALLM-OLV/LOCALLM_OLV.github.io/raw/refs/heads/main/LOCALLM_OLV_BETA_DEMO.mp4" width="100%" controls></video>
+[▶ WATCH DEMO VIDEO](https://github.com/LOCALLM-OLV/LOCALLM_OLV.github.io/raw/main/LOCALLM_OLV_BETA_DEMO.mp4)
+
+> GitHub mobile may not support embedded video playback.  
+> Tap the link above to open the demo video directly.
 
 ---
 
-### FEATURES
+# ✨ FEATURES
 
-1. **MULTI AGENTS IN ONE**
-2. **MULTI USERS IN ONE (CANARY VERSION)**
-3. **TOOL GENERATOR (CANARY VERSION)**
-4. **IT SUPPORTS LOCAL, LOCAL SERVER, WEB API**
-5. **AGENTS (ROLE/JOB PER)**
-6. **MASTER USERS (SYSTEM_PROMPT)**
-7. **DRAG & DROP**
-8. **LOG**
-9. **MD VIEW / SPLIT VIEW**
-10. **WEB VIEW**
-11. **AGENTS COLLAB / DEBATE (CANARY VERSION)**
-12. **AGENTS HAVE THEIR OWN MEMORY (AST/PROFILE/STM/LTM) 🧠🧠**
-13. **GUI-BASED ADJUSTMENTS**
+- 🧩 **MULTI AGENTS IN ONE**
+- 👥 **MULTI USERS IN ONE** *(CANARY VERSION)*
+- 🛠️ **TOOL GENERATOR** *(CANARY VERSION)*
+- 🌐 **SUPPORTS LOCAL / LOCAL SERVER / WEB API**
+- 🤖 **AGENTS (ROLE / JOB BASED)**
+- 👑 **MASTER USERS (SYSTEM PROMPT)**
+- 🖱️ **DRAG & DROP**
+- 📜 **LOG SYSTEM**
+- 📝 **MD VIEW / SPLIT VIEW**
+- 🌍 **WEB VIEW**
+- 🧠 **AGENTS COLLAB / DEBATE** *(CANARY VERSION)*
+- 💾 **PER-AGENT MEMORY**
+  - AST
+  - PROFILE
+  - STM
+  - LTM
+- 🎛️ **GUI-BASED ADJUSTMENTS**
+
+---
+
+# 🚀 STATUS
+
+> Active Development / Experimental Project
+
+---
+
+# 📌 NOTES
+
+Some features are currently in canary/experimental state and may change.
