@@ -35,15 +35,16 @@
   - STM
   - LTM
 - 🎛️ **GUI-BASED ADJUSTMENTS**
+- 🏨 **SELF-HEALING MECHNISM**
 
 ---
 
 # 🚀 STATUS
 
-> Active Development / Experimental Project
+> Experimental Project
 
 ---
 
 # 📌 NOTES
 
-Some features are currently in canary/experimental state and may change.
+Some features are currently in canary/experimental state and may change. NO PUBLIC.
